@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Shubh.sol": "MyContract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Shubh.sol": {
+			"keccak256": "0x1ea248a8e5d85a86ca4badaa1d90482717768f51aa38f957a7544cca50b203f5",
+			"urls": [
+				"bzz-raw://b97b78d82d1bd3e7f7ff2afbadb21860624ca12bd39a0126946a265b6d5d5cda",
+				"dweb:/ipfs/QmQuK3NnDBigRorcHZkFF5kCRDWSYkLHXQ7Qyi5JLMR3h4"
+			]
+		}
+	},
+	"version": 1
+}
